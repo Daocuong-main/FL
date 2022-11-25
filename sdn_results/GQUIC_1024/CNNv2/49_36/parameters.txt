@@ -1,0 +1,4 @@
+client_lr: 1e-05
+server_lr: 0.0003
+Rounds: 1
+BATCH_SIZE: 8

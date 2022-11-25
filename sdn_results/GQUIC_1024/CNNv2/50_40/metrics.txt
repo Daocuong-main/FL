@@ -1,0 +1,36 @@
+Confusion Matrix
+
+[[    1    93   391  3739   655]
+ [    5   202   579   557  6101]
+ [    4   157   766   560  6524]
+ [    3   259   648  1033  7251]
+ [    9   369   859  1296 10564]]
+
+Accuracy: 0.29
+
+Micro Precision: 0.29
+Micro Recall: 0.29
+Micro F1-score: 0.29
+
+Macro Precision: 0.19
+Macro Recall: 0.21
+Macro F1-score: 0.16
+
+Weighted Precision: 0.22
+Weighted Recall: 0.29
+Weighted F1-score: 0.21
+
+Classification Report
+
+              precision    recall  f1-score   support
+
+     Class 0       0.05      0.00      0.00      4879
+     Class 1       0.19      0.03      0.05      7444
+     Class 2       0.24      0.10      0.14      8011
+     Class 3       0.14      0.11      0.13      9194
+     Class 4       0.34      0.81      0.48     13097
+
+    accuracy                           0.29     42625
+   macro avg       0.19      0.21      0.16     42625
+weighted avg       0.22      0.29      0.21     42625
+
