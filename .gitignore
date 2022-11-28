@@ -4616,3 +4616,13 @@ sdn_saved_models/GQUIC_512/nonFL_CNNv6_WO_FS/77_24/model.h5
 sdn_saved_models/GQUIC_512/nonFL_CNNv6_WO_FS/78_18/model.h5
 sdn_saved_models/GQUIC_512/nonFL_CNNv6_WO_FS/78_22/model.h5
 models/__pycache__/CNNv6.cpython-39.pyc
+sdn_results/GQUIC_512/nonFL_CNN_2D/92_29/metrics.txt
+sdn_results/GQUIC_512/nonFL_CNN_2D/92_29/normal_model_Accuracy.png
+sdn_results/GQUIC_512/nonFL_CNN_2D/92_29/parameters.txt
+sdn_results/GQUIC_512/nonFL_CNN_2D/92_29/time.txt
+sdn_results/GQUIC_512/nonFL_CNNv6_W_FS/63_16/metrics.txt
+sdn_results/GQUIC_512/nonFL_CNNv6_W_FS/63_16/normal_model_Accuracy.png
+sdn_results/GQUIC_512/nonFL_CNNv6_W_FS/63_16/parameters.txt
+sdn_results/GQUIC_512/nonFL_CNNv6_W_FS/63_16/time.txt
+sdn_saved_models/GQUIC_512/nonFL_CNN_2D/92_29/model.h5
+sdn_saved_models/GQUIC_512/nonFL_CNNv6_W_FS/63_16/model.h5
