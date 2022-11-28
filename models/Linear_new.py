@@ -5,9 +5,9 @@ from keras.layers import TimeDistributed, Conv1D, MaxPool1D, Flatten, LSTM, Dens
 from keras.models import Sequential
 
 
-def create_keras_model(NUM_CLASSES):
+def create_keras_model(NUM_FEATURE,NUM_CLASSES):
     model = Sequential()
-    model.add(InputLayer(input_shape=(129,)))
+    model.add(InputLayer(input_shape=(NUM_FEATURE,)))
     model.add(Dense(32))
     model.add(Dense(NUM_CLASSES, activation='softmax'))
     
