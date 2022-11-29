@@ -3936,7 +3936,7 @@ Data_Processing/send/rawds-20/gquic/Youtube/youtube_00028_20180327171700.csv
 Data_Processing/send/rawds-20/gquic/Youtube/youtube_00029_20180325100719.csv
 Data_Processing/send/rawds-20/gquic/Youtube/youtube_00029_20180326051203.csv
 Data_Processing/send/rawds-20/gquic/Youtube/youtube_00029_20180327184643.csv
-Data_Processing/send/rawds-20/gquic/Youtube/youtube_00030_20180325111302.csv
+Data_Processing/send/*
 Data_Processing/send/rawds-20/gquic/Youtube/youtube_00030_20180326072725.csv
 Data_Processing/send/rawds-20/gquic/Youtube/youtube_00030_20180327201140.csv
 Data_Processing/send/rawds-20/gquic/Youtube/youtube_00031_20180325120818.csv
@@ -4489,7 +4489,7 @@ Data_Processing/Summary/Final/Youtube/youtube_00026_20180325220916_summary.feath
 Data_Processing/Summary/Final/Youtube/youtube_00026_20180327122606_summary.feather
 Data_Processing/Summary/Final/Youtube/youtube_00027_20180325080418_summary.feather
 Data_Processing/Summary/Final/Youtube/youtube_00027_20180326002726_summary.feather
-Data_Processing/Summary/Final/Youtube/youtube_00027_20180327135549_summary.feather
+Data_Processing/Summary/*
 Data_Processing/Summary/Final/Youtube/youtube_00028_20180325091258_summary.feather
 Data_Processing/Summary/Final/Youtube/youtube_00028_20180326024302_summary.feather
 Data_Processing/Summary/Final/Youtube/youtube_00028_20180327171700_summary.feather
@@ -4626,3 +4626,5 @@ sdn_results/GQUIC_512/nonFL_CNNv6_W_FS/63_16/parameters.txt
 sdn_results/GQUIC_512/nonFL_CNNv6_W_FS/63_16/time.txt
 sdn_saved_models/GQUIC_512/nonFL_CNN_2D/92_29/model.h5
 sdn_saved_models/GQUIC_512/nonFL_CNNv6_W_FS/63_16/model.h5
+sdn_saved_models/*
+sdn_results/*
