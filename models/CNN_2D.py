@@ -9,7 +9,7 @@ def create_keras_model(NUM_FEATURE, NUM_CLASSES):
     model = Sequential()
 
     model.add(Conv2D(filters=32, kernel_size=(5, 5), padding='Same',
-                     activation='relu', input_shape=(20, NUM_FEATURE, 1)))
+                     activation='relu', input_shape=(20, NUM_FEATURE,1)))
     model.add(Conv2D(filters=32, kernel_size=(5, 5), padding='Same',
                      activation='relu'))
     model.add(MaxPool2D(pool_size=(2, 2)))
@@ -21,7 +21,6 @@ def create_keras_model(NUM_FEATURE, NUM_CLASSES):
                      activation='relu'))
     model.add(MaxPool2D(pool_size=(2, 2), strides=(2, 2)))
     model.add(Dropout(0.25))
-
     model.add(Flatten())
     model.add(Dense(256, activation="relu"))
     model.add(Dropout(0.5))

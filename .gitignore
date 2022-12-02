@@ -1,4 +1,4 @@
-__pycache__/checkpoint_manager.cpython-39.pyc
+__pycache__/*
 __pycache__/Node.cpython-36.pyc
 __pycache__/Node.cpython-39.pyc
 __pycache__/util.cpython-39.pyc
@@ -4628,3 +4628,5 @@ sdn_saved_models/GQUIC_512/nonFL_CNN_2D/92_29/model.h5
 sdn_saved_models/GQUIC_512/nonFL_CNNv6_W_FS/63_16/model.h5
 sdn_saved_models/*
 sdn_results/*
+models/__pycache__/*
+models/__pycache__/CNN_2D.cpython-39.pyc
