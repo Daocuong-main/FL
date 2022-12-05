@@ -4629,5 +4629,5 @@ sdn_saved_models/GQUIC_512/nonFL_CNNv6_W_FS/63_16/model.h5
 sdn_saved_models/*
 sdn_results/*
 models/__pycache__/*
-models/__pycache__/CNN_2D.cpython-39.pyc
 Data_Processing/GQUIC_.zip
+models/__pycache__/CNN_2D.cpython-39.pyc
